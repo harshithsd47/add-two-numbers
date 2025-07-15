@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Chaithra");
         System.out.println("pqr");
         System.out.println("stu");
+        System.out.println("i am adding new line for 1st time");
     }
 }
